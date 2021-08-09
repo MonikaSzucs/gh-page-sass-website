@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/monikaszucs.github.io/gh-pages-sass-website/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/monikaszucs.github.io/gh-pages-sass-website/static/js/main.babbe4c6.chunk.js",
+    "main.js.map": "/monikaszucs.github.io/gh-pages-sass-website/static/js/main.babbe4c6.chunk.js.map",
+    "runtime-main.js": "/monikaszucs.github.io/gh-pages-sass-website/static/js/runtime-main.1c520203.js",
+    "runtime-main.js.map": "/monikaszucs.github.io/gh-pages-sass-website/static/js/runtime-main.1c520203.js.map",
+    "static/js/2.47d628c7.chunk.js": "/monikaszucs.github.io/gh-pages-sass-website/static/js/2.47d628c7.chunk.js",
+    "static/js/2.47d628c7.chunk.js.map": "/monikaszucs.github.io/gh-pages-sass-website/static/js/2.47d628c7.chunk.js.map",
+    "static/js/3.b4a6a797.chunk.js": "/monikaszucs.github.io/gh-pages-sass-website/static/js/3.b4a6a797.chunk.js",
+    "static/js/3.b4a6a797.chunk.js.map": "/monikaszucs.github.io/gh-pages-sass-website/static/js/3.b4a6a797.chunk.js.map",
+    "index.html": "/monikaszucs.github.io/gh-pages-sass-website/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/monikaszucs.github.io/gh-pages-sass-website/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.47d628c7.chunk.js.LICENSE.txt": "/monikaszucs.github.io/gh-pages-sass-website/static/js/2.47d628c7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/monikaszucs.github.io/gh-pages-sass-website/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c520203.js",
+    "static/js/2.47d628c7.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.babbe4c6.chunk.js"
+  ]
+}
